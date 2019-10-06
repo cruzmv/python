@@ -1,0 +1,44 @@
+{
+  "index": 2,
+  "message": "New block forged",
+  "previous_hash": "d1aacf2758880c14c09d71e3837730394d182f8ef037d2b89d366d8ef1008e07",
+  "proof": 41045,
+  "transaction": [
+    {
+      "amount": 1,
+      "recipient": "59b7022a.734d.4d1d.a7ce.30265a2ed8b4",
+      "sender": "0"
+    }
+  ]
+}
+
+
+
+{
+  "index": 3,
+  "message": "New block forged",
+  "previous_hash": "ebfd75728e7caa0719dd3ec7a44b071db6a691258c8e8bb27665c9d9cbef6dd3",
+  "proof": 5790,
+  "transaction": [
+    {
+      "amount": 1,
+      "recipient": "59b7022a.734d.4d1d.a7ce.30265a2ed8b4",
+      "sender": "0"
+    }
+  ]
+}
+
+
+{
+  "index": 4,
+  "message": "New block forged",
+  "previous_hash": "115ca024a2269c72ac95907294ffa0723d3bb56fe4c3ad3626aeb1b2ec30e207",
+  "proof": 7890,
+  "transaction": [
+    {
+      "amount": 1,
+      "recipient": "59b7022a.734d.4d1d.a7ce.30265a2ed8b4",
+      "sender": "0"
+    }
+  ]
+}
